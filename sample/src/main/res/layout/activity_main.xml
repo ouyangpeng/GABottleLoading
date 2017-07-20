@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -22,12 +23,16 @@
             android:id="@+id/bottle_view_small"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            app:bottle_color="@android:color/holo_orange_light"
+            app:water_color="@android:color/holo_orange_light"
             android:layout_weight="1" />
 
         <com.gastudio.gabottleloading.library.GABottleLoadingView
             android:id="@+id/bottle_view_middle"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            app:bottle_color="@android:color/holo_red_light"
+            app:water_color="@android:color/holo_red_light"
             android:layout_weight="2" />
     </LinearLayout>
 
