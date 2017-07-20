@@ -1,4 +1,8 @@
 # GABottleLoading
+
+原理地址： [贝塞尔Loading——化学风暴](https://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ%3D%3D&sn=6f9e3b2fc27835aa3cdf8d88103383d9&chksm=83f8260ab48faf1cbf90aa0e174ed7c0522b887fc9c0f1becb221b701d7e317dca572069ecbb&mid=2649485066&utm_medium=email&utm_source=gank.io&idx=1#rd)
+
+
 ### 1 创意原型：
 
 #### 原型效果图如下：
